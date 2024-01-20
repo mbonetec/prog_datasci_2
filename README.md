@@ -1,4 +1,5 @@
-*Análisis de la base de datos The Movie Database (TMDB)*
+**Análisis de la base de datos The Movie Database (TMDB)**
+
 **REPOSITORIO**
 
 Este repositorio contiene código y recursos para realizar análisis del contenido de la base de datos The Movie Database (TMDB) para la compañia de medios de comunicación Open Broadcast Corporation, ya que se está planteando adquirir licencias de emisión de programas de televisión populares con las que espera aumentar significativamente el número de suscriptores.
@@ -42,5 +43,5 @@ Test: La carpeta con las funciones para realizar los test del proyecto.
       Se verifica que la serie 'Loki' tiene la nueva variable air_days de 35.0
       Verifica que el diccionario contiene las claves y valores esperados para la serie 'Game of Thrones'.
       
-Licencia:
+**Licencia:**
 El código en este repositorio está bajo la Licencia MIT. Siéntete libre de usar y modificar el código.
