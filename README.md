@@ -7,15 +7,16 @@ Este repositorio contiene código y recursos para realizar análisis del conteni
 Para comenzar con este proyecto, sigue los siguientes pasos: 
 git clone https://github.com/mbonetec/prog_mbc.git
 
+Navega al directorio del proyecto:
+cd prog_mbc
+
 Instala las dependencias necesarias:
 pip install -r requirements.txt
 
-Ejecuta el análisis: 
+Abre pycharm y ejecuta el análisis: 
 El script principal para realizar el análisis es main.py
-Para ejecutar el análisis, ejecuta el siguiente comando dentro de la carpeta src: 
-python3 main.py
 
-Los resultados del análisis de sentimiento se mostrarán en la consola.
+Los resultados del análisis se mostrarán en la consola.
 
 **Estructura del Proyecto:**
 El repositorio tiene la siguiente estructura:
@@ -43,5 +44,5 @@ Test: La carpeta con las funciones para realizar los test del proyecto.
       Se verifica que la serie 'Loki' tiene la nueva variable air_days de 35.0
       Verifica que el diccionario contiene las claves y valores esperados para la serie 'Game of Thrones'.
       
-**Licencia:**
+Licencia:
 El código en este repositorio está bajo la Licencia MIT. Siéntete libre de usar y modificar el código.
