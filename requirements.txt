@@ -1,0 +1,5 @@
+import zipfile
+import tarfile
+import os
+pandas~=2.1.4
+matplotlib~=3.8.2

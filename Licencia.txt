@@ -1,0 +1,4 @@
+Licencia MIT.
+
+El código en este repositorio está bajo la Licencia MIT.
+Siéntete libre de usar y modificar el código.
