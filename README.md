@@ -3,6 +3,7 @@
 **REPOSITORIO**
 
 Este repositorio contiene código y recursos para realizar análisis del contenido de la base de datos The Movie Database (TMDB) para la compañia de medios de comunicación Open Broadcast Corporation, ya que se está planteando adquirir licencias de emisión de programas de televisión populares con las que espera aumentar significativamente el número de suscriptores.
+El codigo ha sido desarrollado por Margarita Bonete Cayuelas con el obtetivo de dar respuesta a las cuestiones planteadas en la PEC$ de la asignatura de Programacion para la ciencia de datos.
 
 Para comenzar con este proyecto, sigue los siguientes pasos: 
 git clone https://github.com/mbonetec/prog_mbc.git
